@@ -15,6 +15,8 @@ public class Sample {
 		System.out.println("Factorial of a number:"+fact);
 				
 		
+		System.out.println("This is RamFact1 Branch");
+		
 	}
 
 }
